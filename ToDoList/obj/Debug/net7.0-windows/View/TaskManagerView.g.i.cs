@@ -53,7 +53,7 @@ namespace ToDoList.View {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/ToDoList;component/view/taskmanagerview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/ToDoList;V1.0.0.0;component/view/taskmanagerview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\View\TaskManagerView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
