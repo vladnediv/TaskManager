@@ -23,6 +23,7 @@ namespace ToDoList.View
     {
         public TaskManagerView(TaskManagerViewModel viewModel)
         {
+            viewModel.Initialize();
             this.DataContext = viewModel;
             InitializeComponent();
         }

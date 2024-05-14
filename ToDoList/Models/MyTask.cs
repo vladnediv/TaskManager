@@ -12,7 +12,10 @@ namespace ToDoList.Models
         public string Name { get; set; }
         public string Description { get; set; }
         public MyTaskStatus TaskStatus { get; set; }
+        
     }
 
-    public enum MyTaskStatus { New, InProcess, Finished }
+    public enum MyTaskStatus { New, Finished }
+
+
 }

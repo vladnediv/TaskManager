@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "vrH04W0lp5Pzx86xCacEaXz1jNbwg6IhlmppwQ8mmM9yksD12nno+XBGgQIjB8ZglH3BkvPZ4Aowyo1TgerX5A==",
+  "dgSpecHash": "X2jux+nfAI6BNvokDJoRyxmMCLEuQ4Q0VDA/otFQvn9DegJnSw7sR7o3G2ah0bGBpMGMmDeskm1dPS7XimLYiA==",
   "success": true,
   "projectFilePath": "D:\\dev\\TaskManager\\ToDoList\\ToDoList.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vladi\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\vladi\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\vladi\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
     "C:\\Users\\vladi\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\vladi\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\vladi\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.5\\microsoft.data.sqlclient.5.1.5.nupkg.sha512",
